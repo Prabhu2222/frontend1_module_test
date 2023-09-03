@@ -1,0 +1,8 @@
+@media screen and (max-width:768px){
+ .menus{
+    display: none;
+} 
+ .menus .svg{
+    display: block;
+}
+}
